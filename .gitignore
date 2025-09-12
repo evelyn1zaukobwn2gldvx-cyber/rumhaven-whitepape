@@ -1,0 +1,18 @@
+# Node / JS
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Build
+dist/
+build/

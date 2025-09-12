@@ -1,0 +1,65 @@
+/* Rumhaven GitBook Publication Styles */
+:root {
+  /* Ocean-inspired palette: softer, game-friendly */
+  --bg: #042033; /* deep ocean blue */
+  --panel: #07283a; /* slightly lighter panel */
+  --muted: #98aeb8;
+  --accent: #7bd389; /* seafoam accent */
+  --rum: #67c6b6; /* RUM accent: teal-sea */
+  --lot: #6fb8ff; /* LOT accent: light azure */
+  --text: #e8f7fb; /* pale sea-foam text */
+}
+
+/* Page baseline */
+body {
+  background: linear-gradient(180deg, var(--bg), #02202b);
+  color: var(--text);
+  /* Prefer decorative serif for headings, readable sans for body */
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  line-height: 1.6;
+  padding: 1.25rem 1rem;
+}
+
+.container { max-width: 980px; margin: 0 auto; background: linear-gradient(180deg, rgba(255,255,255,0.01), transparent); padding: 1rem 1.25rem; border-radius: 8px; }
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: var(--accent);
+  margin-top: 1.2rem;
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+}
+h1 { font-size: 2rem; border-bottom: 1px solid rgba(255,255,255,0.03); padding-bottom: .25rem; }
+
+/* Links */
+a { color: var(--lot); text-decoration: underline; }
+
+table { width: 100%; border-collapse: collapse; margin: .6rem 0; background: rgba(255,255,255,0.01); }
+th, td { padding: .6rem .8rem; border: 1px solid rgba(255,255,255,0.03); }
+th { background: rgba(255,255,255,0.02); text-align: left; }
+
+/* Callout box */
+.callout { border-left: 4px solid rgba(127,214,179,0.9); background: linear-gradient(90deg, rgba(103,195,178,0.06), rgba(6,26,34,0.01)); padding: .8rem 1rem; margin: .6rem 0; color: var(--text); border-radius: 6px; }
+.callout h4, .callout strong { color: var(--text); }
+
+/* Token emphasis */
+.token-rum { color: var(--rum); font-weight: 800; text-shadow: 0 1px 0 rgba(0,0,0,0.2); }
+.token-lot { color: var(--lot); font-weight: 700; }
+
+/* Inline code */
+code, kbd { background: rgba(0,0,0,0.35); padding: .08rem .28rem; border-radius: 4px; color: var(--text); }
+
+/* Footnotes and muted text */
+.muted { color: var(--muted); font-size: .95em; }
+
+/* Responsive small screens */
+@media (max-width: 720px) {
+  body { padding: .8rem; }
+  h1 { font-size: 1.6rem; }
+}
+
+/* Print-friendly fallback */
+@media print {
+  body { background: #fff; color: #000; }
+  a { color: #000; text-decoration: none; }
+  .callout { border-left-color: #000; background: transparent; }
+}
