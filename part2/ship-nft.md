@@ -6,7 +6,7 @@
 
 <div class="container">
 
-Ships are the core tool for exploration and wealth accumulation in the Rumhaven Isles. Each vessel is a unique ERC-721 standard NFT, with its ownership and metadata permanently recorded on the Binance Smart Chain and managed by the `ShipNFT.sol` contract. A ship's metadata, including its ID and faction, is dynamically generated on-chain via the `tokenURI` function, forming an immutable "official deed" for each vessel.
+Ships are the core tool for exploration and wealth accumulation in the Rumhaven Isles. Each vessel is a unique ERC-721 standard NFT, with its ownership and metadata permanently recorded on hypeevm and managed by the `ShipNFT.sol` contract. A ship's metadata, including its ID and faction, is dynamically generated on-chain via the `tokenURI` function, forming an immutable "official deed" for each vessel.
 
 Based on the `kindOf` mapping in the `ShipNFT.sol` contract, all ships are divided into two factions:
 * **Merchant Ships (Kind 0):** These vessels are the workhorses of the isles' trade routes. Built for sturdiness, they focus on stable and efficient transport. Merchant captains excel at planning, building reliable trade networks to steadily accumulate $RUM wealth.

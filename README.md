@@ -19,7 +19,7 @@ This is a new era of courage, strategy, and opportunity. Whether you are a merch
 
 ### 1.2 An Overview of the Isles' Ecosystem
 
-The Rumhaven Isles is a decentralized NFT gaming ecosystem built on the Binance Smart Chain (BSC). It merges digital asset ownership with a captivating, nautical-themed economy, offering a world of opportunity for all participants.
+The Rumhaven Isles is a decentralized NFT gaming ecosystem built on hypeevm. It merges digital asset ownership with a captivating, nautical-themed economy, offering a world of opportunity for all participants.
 
 The ecosystem is built upon several key assets:
 

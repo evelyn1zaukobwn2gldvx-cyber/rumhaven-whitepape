@@ -14,7 +14,7 @@ Instead of a roadmap of future promises, the Rumhaven Isles presents its "Captai
 	* **Description:** The development, internal testing, and security audits of the core smart contracts, including `Lottery.sol`, `Staking.sol`, and the token contracts `RUMToken.sol` and `LOTToken.sol`, are all complete.
 
 * **[COMPLETED] - The Fleet is Commissioned**
-	* **Description:** The core NFT asset contracts, `ShipNFT.sol` and `LandNFT.sol`, along with the `Presale.sol` contract for the genesis event, have been successfully deployed to the BSC Mainnet.
+	* **Description:** The core NFT asset contracts, `ShipNFT.sol` and `LandNFT.sol`, along with the `Presale.sol` contract for the genesis event, have been successfully deployed to hypeevm.
 
 * **[COMPLETED] - The Flag is Raised**
 	* **Description:** The Rumhaven Isles dApp interface is live. Users can seamlessly interact with all core protocol functions via a Web3 wallet.
