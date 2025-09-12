@@ -6,7 +6,7 @@
 
 The economy of the Rumhaven Isles is a self-reinforcing, closed-loop system.
 
-Entry: Players use BNB to participate in the Genesis Auction, acquiring their first Ship and Land NFTs.
+Entry: Players use Hype to participate in the Genesis Auction, acquiring their first Ship and Land NFTs.
 
 Production: Players dispatch their Ship NFTs on "Fortune's Voyage," producing $RUM through strategic combinations of ships, land, and routes. This is the primary source of $RUM.
 
