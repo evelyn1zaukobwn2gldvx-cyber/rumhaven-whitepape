@@ -25,4 +25,12 @@ To ensure the healthy development of the $RUM economy, we have designed clear su
 - Team & advisor allocations include standard lockups and vesting to align incentives with long-term success.
 - Liquidity & rewards allocation ensures smooth market function and community event funding.
 
+### LOT Launch Liquidity Note
+
+As part of the LOT token launch mechanics, the team will earmark a defined portion of LOT sale proceeds to acquire $RUM on open markets and provide initial $RUM liquidity (e.g., via LP pools). This is intended to:
+- Support immediate market-making for $RUM and reduce initial slippage.
+- Ensure that early participants and players can access $RUM for gameplay without excessive friction.
+
+All liquidity actions will be documented on-chain where possible and communicated via official channels, with clear accounting of amounts and destination (liquidity pools or reserve wallets).
+
 </div>

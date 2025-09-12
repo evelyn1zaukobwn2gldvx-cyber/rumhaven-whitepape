@@ -17,5 +17,9 @@ The primary functions of $LOT are clear and powerful:
 * To purchase tickets in the Governor's Lottery, competing for a massive $LOT prize pool.
 * To be staked in the Merchant's Guild to earn passive $RUM income.
 
+### Liquidity Support
+
+During the LOT launch, the project team will allocate a portion of the launch proceeds to acquire $RUM and seed initial liquidity for the $RUM markets. This action is designed to provide immediate market depth, reduce early price volatility, and ensure smoother on-ramps for players converting into the in-game currency. All purchases and liquidity provisioning will be executed transparently and announced to the community.
+
 </div>
 
