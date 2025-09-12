@@ -33,5 +33,17 @@ The first staking reward campaign, "The Founder's Bounty," is now live.
 During this campaign, a total of **<span class="token-rum">100,000 $RUM</span>** will be distributed linearly and fairly, second by second, to all users staking <span class="token-lot">$LOT</span>. Your share of the rewards is directly proportional to your share of the total staking pool.
 </div>
 
+### Staking Reward Schedule & Examples
+
+To help stakers estimate potential returns, the Merchant's Guild exposes clearly defined reward campaigns. Each campaign specifies the total $RUM pool and duration. The contract distributes rewards pro rata to stakers' share of the total pool.
+
+| Campaign Name | Total Pool ($RUM) | Duration | Estimated APR (example) | Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Founder's Bounty | 100,000 | 7 days | 45% (approx) | High initial APR to bootstrap staking participation |
+| Season One | 250,000 | 30 days | 18% (approx) | Moderated emission for sustainable rewards |
+| Long-Term Reserve | 1,000,000 | 365 days | 5% (approx) | Slow drip to support long-term engagement |
+
+**APR Calculation Example**: APR estimates are illustrative and depend on the total amount of $LOT staked. If 10,000 $LOT are staked during Founder's Bounty (100,000 $RUM pool over 7 days), a user staking 100 $LOT would receive approximately (100 / 10,000) * 100,000 = 1,000 $RUM over the campaign — which annualized gives an estimated APR.
+
 </div>
 

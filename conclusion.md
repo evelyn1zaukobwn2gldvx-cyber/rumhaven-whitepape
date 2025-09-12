@@ -23,3 +23,15 @@ Instead of a roadmap of future promises, the Rumhaven Isles presents its "Captai
 	* **Description:** The project is officially launched. The Genesis Auction (Presale) protocol is active. The Governor's Lottery and Merchant's Guild (Staking) systems are fully operational from day one. All core features described in this whitepaper have been implemented and are available for the community to use.
 
 </div>
+
+### Quick Launch Metrics & Next Steps
+
+| Metric | Value |
+| :--- | :--- |
+| Genesis Ship Supply | 1,000 |
+| Genesis Land Supply | 500 |
+| Initial Founder's Bounty ($RUM) | 100,000 $RUM |
+| $RUM Max Supply | 1,000,000,000 |
+| $LOT Ticket Price | 1,000 $LOT |
+
+**Next Steps:** Focus on community onboarding, analytics integration, and iterative balancing of route rewards and P2E emission curves. Governance proposals for ecosystem fund utilization will be opened on-chain after the TGE.

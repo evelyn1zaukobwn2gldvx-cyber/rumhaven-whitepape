@@ -11,11 +11,18 @@ To ensure the healthy development of the $RUM economy, we have designed clear su
 
 | Category | Percentage | Amount | Description & Vesting Schedule |
 | :--- | :--- | :--- | :--- |
-| **Play-to-Earn (P2E) Rewards** | 60% | 600,000,000 | This portion is not pre-minted. It serves as the minting cap for the game contract, released dynamically based on actual player output. |
-| **Ecosystem Fund** | 15% | 150,000,000 | 10% released at TGE, with the remainder vesting linearly over 24 months. |
-| **Team** | 15% | 150,000,000 | Locked for 12 months, followed by linear vesting over 24 months. |
-| **Advisors** | 5% | 50,000,000 | Locked for 6 months, followed by linear vesting over 18 months. |
-| **Liquidity & Initial Rewards** | 5% | 50,000,000 | Used at TGE for initial liquidity, with 200,000 $RUM allocated for the genesis events. |
+| **Play-to-Earn (P2E) Rewards** | 60% | 600,000,000 | Minted dynamically by the game contract based on player activity; uncapped per-block emission constrained by gameplay parameters. |
+| **Ecosystem Fund** | 15% | 150,000,000 | 10% released at TGE; remaining 90% linearly vested over 24 months with milestone-based governance releases. |
+| **Team** | 10% | 100,000,000 | Locked for 12 months, then linear vesting over 36 months with cliff protections. |
+| **Advisors** | 3% | 30,000,000 | Locked for 6 months, followed by linear vesting over 18 months. |
+| **Liquidity & Initial Rewards** | 7% | 70,000,000 | Used at TGE for initial liquidity and marketplace incentives; includes 200,000 $RUM reserved for early event rewards. |
+| **Reserve & Partnerships** | 5% | 50,000,000 | Strategic reserve for long-term partnerships and ecosystem growth; subject to multisig governance approvals. |
 | **Total** | **100%** | **1,000,000,000** | |
+
+### Emission & Vesting Highlights
+
+- P2E emissions are the primary source of circulating $RUM and are driven by on-chain gameplay outcomes.
+- Team & advisor allocations include standard lockups and vesting to align incentives with long-term success.
+- Liquidity & rewards allocation ensures smooth market function and community event funding.
 
 </div>

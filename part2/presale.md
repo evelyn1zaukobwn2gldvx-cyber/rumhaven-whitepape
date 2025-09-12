@@ -20,3 +20,20 @@ The auction uses a blind-box mechanism. When you mint, you cannot pre-select the
 Participants can mint NFTs by calling the corresponding contract function, where `n` is the desired quantity. The BNB value sent with the transaction must exactly match `quantity * price`. Minting will automatically cease once the supply cap is reached.
 
 </div>
+
+### Presale Tiers & Rules
+
+To add clarity for participants, the Genesis Auction features tiered access windows with different limits and incentives. All rules are enforced by `Presale.sol`.
+
+| Tier | Access Window (UTC) | Price (BNB) | Per-wallet Cap | Allocation | Notes |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| Early Bird | TBA (first 24 hours) | 0.08 | 5 NFTs | 10% of supply | Discounted price to reward early supporters |
+| Standard | TBA (next 48 hours) | 0.10 | 10 NFTs | 70% of supply | Main public mint window |
+| Last Call | TBA (final 24 hours) | 0.12 | 2 NFTs | 20% of leftover | Catch-all window for remaining supply |
+
+**Refund Policy & Anti-bot Measures**
+- All mints are final. If a transaction fails due to on-chain reverts, the user's funds remain in their wallet (typical on-chain behavior). The contract includes rate-limits per address and reentrancy guards to mitigate automated front-running.
+
+**Example**: If you participate in the Early Bird tier and mint 3 Ship NFTs at `0.08 BNB` each, your required payment is `0.24 BNB`. The actual Ship type will be assigned at mint time via the on-chain randomness oracle.
+
+</div>

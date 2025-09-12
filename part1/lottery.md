@@ -41,5 +41,23 @@ To celebrate the maiden voyage, a special reward pool of **<span class="token-ru
 | Founder's Bounty | 100,000 $RUM (for instant rewards) |
 </div>
 
+### Lottery Parameters & Mechanics (Detailed)
+
+The lottery contract exposes several tunable parameters and fixed mechanics designed for fairness and anti-exploit protection.
+
+| Field | Solidity Constant | Value | Description |
+| :--- | :--- | :---: | :--- |
+| `LOT_PRICE_PER_TICKET` | `uint256` | 1,000 $LOT | Cost of one ticket paid in $LOT |
+| `CAP` | `uint16` | 100 | Tickets per round; triggers instant draw on sell-out |
+| `BURN_BPS` | `uint16` | 1,000 (10%) | Basis points of each ticket burned to `0x...dEaD` |
+| `GRAND_PRIZE_BPS` | `uint16` | 5,000 (50%) | Grand prize share of pool |
+| `SECOND_PRIZE_BPS` | `uint16` | 2,000 (20%) | Share allocated to secondary winners |
+| `SEED_BPS` | `uint16` | 3,000 (30%) | Rollover percentage into next round |
+| `RUM_BUYER` | `uint256` | 50 $RUM | Instant reward to buyer per ticket (example) |
+| `RUM_MILESTONE` | `uint256` | 500 $RUM | Milestone bonus (every 10th ticket) |
+| `LUCKY_BPS` | `uint16` | 100 (1%) | Chance to trigger a lucky hit reward |
+
+**Instant Reward Example**: When a user buys a ticket, the contract attempts to pay `RUM_BUYER` directly from the Founder's Bounty pool. If the pool does not have sufficient funds, the instant reward mechanism gracefully reduces or defers those payments as defined in the contract.
+
 </div>
 
