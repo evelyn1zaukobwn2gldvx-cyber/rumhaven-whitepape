@@ -2,7 +2,7 @@
 
 ## The Captain's Log: Promises Kept
 
-Instead of a roadmap of future promises, the Fomo Ocean Isles presents its "Captain's Log"—a record of the journey we have already completed. This represents our commitment and our execution. We are showing you the core features that are already built and ready for action. The ship is constructed, the engine is roaring, and now, we invite you to come aboard and begin the next great voyage with us.
+Instead of a roadmap of future promises, Fomo Ocean presents its "Captain's Log"—a record of the journey we have already completed. This represents our commitment and our execution. We are showing you the core features that are already built and ready for action. The ship is constructed, the engine is roaring, and now, we invite you to come aboard and begin the next great voyage with us.
 
 * **\[COMPLETED] - Core Systems Online**
   * **Description:** Core modules for Lottery, Staking, NFT Presale, and tokens are live and internally integrated.

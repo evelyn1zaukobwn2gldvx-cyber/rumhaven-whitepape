@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fomo Ocean Isles Official Whitepaper: Tides of Fortune](README.md)
+* [Fomo Ocean Official Whitepaper: Tides of Fortune](README.md)
 * [Conclusion: The Voyage Begins Now](conclusion.md)
 * [part1](part1/README.md)
   * [2. The Governor's Decree - The $LOT Economy](part1/2.0-lot-economy.md)
