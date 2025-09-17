@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Rumhaven Isles Official Whitepaper: Tides of Fortune](README.md)
+* [Fomo Ocean Isles Official Whitepaper: Tides of Fortune](README.md)
 * [Conclusion: The Voyage Begins Now](conclusion.md)
 * [part1](part1/README.md)
   * [2. The Governor's Decree - The $LOT Economy](part1/2.0-lot-economy.md)
@@ -22,4 +22,4 @@
   * [5. The Economy of the Isles](part4/5.0-economics.md)
   * [5.1 The Dual-Token Model](part4/5.1-dual-token.md)
   * [5.2 $RUM Tokenomics](part4/5.2-rum-tokenomics.md)
-  * [5.3 The Wealth Cycle of Rumhaven](part4/5.3-economic-loop.md)
+  * [5.3 The Wealth Cycle of Fomo Ocean](part4/5.3-economic-loop.md)
