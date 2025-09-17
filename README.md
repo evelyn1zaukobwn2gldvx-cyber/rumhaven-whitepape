@@ -1,8 +1,10 @@
+---
+icon: hand-wave
+---
+
 # Fomo Ocean Official Whitepaper: Tides of Fortune
 
 ## 1. Prologue: The Maiden Voyage of Fomo Ocean
-
-![Fomo Ocean overview](home.png)
 
 ### 1.1 Welcome to Fomo Ocean
 
@@ -32,4 +34,3 @@ In Fomo Ocean, you will:
 * **Voyages (planned):** Strategic, route‑based play that will roll out iteratively.
 
 Note: Our smart contracts are non-ERC; they are implemented as Solana programs and deployed on Solana.
-

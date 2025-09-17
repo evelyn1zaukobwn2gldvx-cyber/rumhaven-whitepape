@@ -11,7 +11,7 @@
 * [part2](part2/README.md)
   * [3. Your Fleet & Dominion - The Genesis NFTs](part2/3.0-genesis-nft.md)
   * [3.1 Public Presale (Blind‑Box): Fair, Simple, Transparent](part2/3.1-presale.md)
-  * [3.2-ship-nft](part2/3.2-ship-nft.md)
+  * [3.2 The Ships of Fomo Ocean (ShipNFT)](part2/3.2-ship-nft.md)
   * [3.3 The Lands of the Isles (LandNFT)](part2/3.3-land-nft.md)
 * [part3](part3/README.md)
   * [4. Fortune's Voyage - The Core Gameplay](part3/4.0-core-gameplay.md)
